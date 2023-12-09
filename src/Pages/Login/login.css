@@ -1,0 +1,52 @@
+.pages-login{
+    width: 470px !important;
+    height: 400px !important;
+    border-radius: 20px !important;
+    margin-top: 120px;
+}
+
+.mr-login{
+    margin: 10px 35px;
+}
+
+.mt-10{
+    margin: 20px 35px
+}
+
+.bd-radius{
+    border-radius: 15px !important;
+}
+
+.form-login{
+    width: 400px;
+    border-radius: 15px;
+    height: 50px;
+    /* border-color: #49A84D ; */
+    padding: 5px 10px;
+}
+
+.btn-login{
+    width: 200px !important;
+    margin-left: 140px;
+    background-color: #49A84D !important;
+    border-radius: 10px !important;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.color-green{
+    color: #49A84D !important;
+}
+
+.background-image{
+    background-color: beige;
+    background-image: url(./../../assets/image/background3.jpg);
+    height: 668px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-DH{
+    margin-top: 20px;
+    margin-left: 120px;
+}

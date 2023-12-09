@@ -1,0 +1,302 @@
+ /* Remove the navbar's default margin-bottom and rounded borders */
+ .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    justify-content: left !important;
+  }
+ 
+  /* Add a gray background color and some padding to the footer */
+  .footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
+ 
+ 
+  /* navbar */
+ 
+  /* .navbar {
+    background: linear-gradient(90deg, #BFD542 41.98%, #6CB94F 82.54%);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    width: 1350px;
+    height: 40px;
+  }
+ 
+  .font-text {
+    font-size: 12px;
+    color: #ffff;
+  }
+ 
+  .text1 {
+    text-align: center;
+  }
+ 
+  .display {
+    display: contents !important;
+  }
+ 
+  .mt-6 {
+    margin-top: 5px;
+    margin-right: 5px;
+    padding: 0px 112px;
+  } */
+ 
+  
+ 
+  /*
+  .icon {
+    margin-right: 5px;
+  }
+ 
+  .text-left {
+    margin-bottom: 20px;
+    margin-right: 40px;
+    margin-right: 112px;
+  }
+ 
+  .dropdown1 {
+    color: #ffff !important;
+    text-decoration-line: none !important;
+    font-size: 12px;
+  }
+  */
+
+  /* navbar2 */
+ 
+  /* .main-navbar {
+    box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.3);
+  }
+ 
+  .mt-8 {
+    margin-top: 15px; */
+    /* margin-right: 10px; */
+    /* padding: 0px 37px; */
+    /* margin-right: 40px;
+  } */
+ 
+  /* .mr-2 {
+    margin-right: 112px;
+  } */
+ 
+  /* .font-nav {
+    font-size: 16px;
+    color: #555555;
+  } */
+ 
+  /* .nav2 {
+    text-align: center !important;
+    justify-content: flex-end;
+    text-decoration-line: none !important;
+  } */
+
+/* Bot-Navbar */
+
+  .mt-7 {
+    margin-top: 6px;
+    margin-right: 5px;
+    padding: 0px 115px;
+    margin-bottom: 20px;
+  }
+ 
+  .btn-nav3 {
+    border-color: #C0D643 !important;
+    width: 180px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 15px !important;
+  }
+ 
+  .form-nav {
+    width: 800px !important;
+    height: 40px;
+    margin-top: 22px;
+    border-radius: 15px !important;
+  }
+ 
+  .br {
+    border-radius: 10px;
+  }
+ 
+  .navbar3 {
+    box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.3);
+    width: 1350px;
+    height: 80px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
+ 
+  /* body */
+ 
+  /* .breadcumb1 {
+    margin-top: 20px;
+  }
+ 
+  .main {
+    position: relative;
+    top: 190px;
+  }
+ 
+  .main4 {
+    position: relative;
+    top: 200px;
+  }
+ 
+  .mr-text {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #70AE51;
+  }
+ 
+  .btn-main {
+    width: 170px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+ 
+  .color-grey {
+    color: #A6A6A6;
+    border-color: #A6A6A6;
+  }
+ 
+  .btn-main:hover{
+   color: #70AE51;
+  }
+ 
+ 
+  .warehouse {
+    margin-left: 120px;
+  }
+ 
+  .main-card {
+    position: relative;
+    top: 230px;
+    margin-top: 10px;
+  }
+ 
+  .main-card2 {
+    position: relative;
+    top: 200px;
+    margin-top: 10px;
+  }
+ 
+  .main-card3 {
+    position: relative;
+    top: 170px;
+    margin-top: 10px;
+  }
+ 
+  .card1 {
+    width: 244px;
+    height: 400px;
+    margin-top: 30px;
+    margin-right: 15px;
+    border-radius: 25px;
+  }
+ 
+  .mr-card {
+    margin: 20px 5px;
+  }
+ 
+  .mr-left {
+    margin-left: 15px;
+  }
+ 
+  .text1 {
+    margin-left: 35px;
+    background-color: red;
+    color: white;
+    width: 83px;
+    height: 20px;
+    border-radius: 15px;
+    font-size: 12px;
+  }
+ 
+  .text-main {
+    text-decoration-line: none;
+    color: #58585A;
+  }
+ 
+  .ft-size16 {
+    font-size: 16px;
+  }
+ 
+  .text {
+    font-size: 14px;
+  }
+ 
+  .font-text2 {
+    font-size: 12px;
+    margin-bottom: 0px !important;
+  }
+ 
+  .mt-2 {
+    margin-top: 2px !important;
+  }
+ 
+  .mr30 {
+    margin-left: 15px;
+  }
+ 
+  .text-card1 {
+    margin-left: 15px;
+    margin-top: 20px;
+  }
+ 
+  .justify-center {
+    justify-content: center;
+  }
+ 
+  .slide {
+    border-radius: 20px !important;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+  }
+ 
+  .color-slide {
+    background-color: #D3D9E0;
+    color: black;
+  }
+ 
+  .color1 {
+    background-color: #D3D9E0;
+    color: black;
+  }
+ 
+  .color-green {
+    color: #70AE51;
+  }
+ 
+  .text-link{
+   text-decoration-line:none ;
+   color: #242824;
+  }
+ 
+  .main-footer{
+   width: 1440px;
+   height: 40px;
+   position: relative;
+   top: 400px;
+   margin-top: 30px;
+   background-color: #242824;
+ }
+ 
+ .text-footer{
+   text-align: center;
+   color: #ffff;
+   font-size: 12px;
+   margin-left: 300px;
+   margin-top: 10px;
+ 
+ }
+ 
+ .text-footer2{
+   text-align: end;
+   color: #ffff;
+   font-size: 12px;
+   margin-left: 100px;
+   margin-top: 10px;
+ } */
+ 
+  

@@ -1,0 +1,150 @@
+.breadcumb1 {
+    margin-top: 20px;
+  }
+
+  .all-spareparts{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .top-content {
+    margin-top: 30px;
+  }
+ 
+  .main {
+    position: relative;
+  }
+ 
+  .mr-text {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #70AE51;
+  }
+ 
+  .btn-main {
+    width: 170px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 15px !important;
+    border-color: #70AE51 !important;
+  }
+ 
+  .color-grey {
+    color: #A6A6A6;
+    border-color: #A6A6A6;
+  }
+ 
+  .btn-main:hover{
+   color: #70AE51;
+  }
+ 
+ 
+  .warehouse {
+    margin-left: 120px;
+  }
+ 
+  .main-card {
+    position: relative;
+    /* top: 230px; */
+    margin-top: 10px;
+  }
+ 
+  .card1 {
+    width: 244px;
+    height: 370px;
+    margin-top: 10px;
+    margin-right: 15px;
+    border-radius: 25px !important;
+  }
+ 
+  .card-product {
+    margin: 25px 30px;
+  }
+
+  .product-2{
+    margin-top: 55px;
+    margin-left: 20px;
+  }
+ 
+  .mr-hydraulic {
+    margin-left: 20px;
+  }
+ 
+  .text1 {
+    margin-left: 35px;
+    background-color: red;
+    color: white;
+    width: 83px;
+    height: 20px;
+    border-radius: 15px;
+    font-size: 12px;
+  }
+ 
+  .text-main {
+    text-decoration-line: none;
+    color: #58585A;
+  }
+ 
+  /* .ft-size16 {
+    font-size: 16px;
+  } */
+ 
+  .text {
+    font-size: 14px;
+  }
+ 
+  .font-text2 {
+    font-size: 12px;
+    margin-bottom: 0px !important;
+  }
+ 
+  .mr-top2 {
+    margin-top: 2px !important;
+  }
+ 
+  .name-product {
+    margin: 0px 20px;
+  }
+ 
+  .text-product-bottom {
+    margin-left: 20px;
+    margin-top: 15px;
+    /* margin-bottom: 20px; */
+  }
+
+  .text-card-product1{
+    padding:0px 0px;
+  }
+
+  .text-card-product2{
+    padding: 40px 0px;
+  }
+ 
+  .justify-center {
+    justify-content: center;
+  }
+ 
+  /* .slide {
+    border-radius: 20px !important;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+  } */
+ 
+ 
+  /* .color1 {
+    background-color: #D3D9E0;
+    color: black;
+  } */
+ 
+  /* .color-green {
+    color: #70AE51;
+  } */
+ 
+  .text-link{
+   text-decoration-line:none ;
+   color: #242824;
+  }
+ 
+ 
